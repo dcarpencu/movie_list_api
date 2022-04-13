@@ -1,0 +1,25 @@
+name: movie_list_api
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  very_good_analysis: ^2.4.0
+  cupertino_icons: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  http: ^0.13.4
+  flutter_lints: ^1.0.4
+
+flutter:
+
+  uses-material-design: true
+
+
